@@ -1,0 +1,18 @@
+Authors : Jahidur Rahman Fahim
+jahidurrahman1414@gmail.com
+
+
+1) Change the directory
+
+2) Install all required things ---> pip install -r requirements.txt
+
+
+-------------------- Run models ------------------
+
+1} Convolutional Neural Network (CNN)--> python face_detection_cnn.py
+
+2} Histogram of oriented gradients (HOG) with support-vector machines (SVM)--> python face_detection_hog_svn.py
+
+3} Single Shot Detection (SSD) --> python face_detection_ssd.py
+
+4} For CNN and HOG both --> python all.py
